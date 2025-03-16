@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bedb250.css",
-    "main.js": "/static/js/main.364a5237.js",
-    "static/js/38.92cc03b4.chunk.js": "/static/js/38.92cc03b4.chunk.js",
-    "index.html": "/index.html",
-    "main.1bedb250.css.map": "/static/css/main.1bedb250.css.map",
-    "main.364a5237.js.map": "/static/js/main.364a5237.js.map",
-    "38.92cc03b4.chunk.js.map": "/static/js/38.92cc03b4.chunk.js.map"
+    "main.css": "/lexishine-build-fe/static/css/main.1bedb250.css",
+    "main.js": "/lexishine-build-fe/static/js/main.2f986779.js",
+    "static/js/38.a95885d3.chunk.js": "/lexishine-build-fe/static/js/38.a95885d3.chunk.js",
+    "index.html": "/lexishine-build-fe/index.html",
+    "main.1bedb250.css.map": "/lexishine-build-fe/static/css/main.1bedb250.css.map",
+    "main.2f986779.js.map": "/lexishine-build-fe/static/js/main.2f986779.js.map",
+    "38.a95885d3.chunk.js.map": "/lexishine-build-fe/static/js/38.a95885d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bedb250.css",
-    "static/js/main.364a5237.js"
+    "static/js/main.2f986779.js"
   ]
 }
