@@ -1,0 +1,149 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contacts": "Contacts",
+    "pricing": "Pricing"
+  },
+  "home": {
+    "slogan": "We Bring Shine to Your Life.",
+    "btn-check-prices": "Check Prices",
+    "services": {
+      "title": "Our Services",
+      "resident-cleaning": "Residential Cleaning",
+      "resident-text": "For those needing housekeeping for their homes.",
+      "office-cleaning": "Office Cleaning",
+      "office-text": "For those in need of a clean working area.",
+      "parties-cleaning": "After Parties",
+      "parties-text": "For those who needs cleaning after parties.",
+      "airbnb-cleaning": "Airbnb Cleaning",
+      "airbnb-text": "For those in need of providing a hospitable Airbnb home."
+    },
+    "needs": {
+      "title": "Your Needs",
+      "description": "Your comfort and cleanliness are our priorities. Let us handle the mess while you relax.",
+      "reasons": {
+        "1": "Reason 1",
+        "1-text": "Professional cleaning ensures a healthier and fresher environment for you and your family.",
+        "2": "Reason 2",
+        "2-text": "We use pet-friendly and eco-friendly products to keep your loved ones safe.",
+        "3": "Reason 3",
+        "3-text": "Save time and energy by leaving the cleaning to our experienced team."
+      }
+    }
+  },
+  "prices-vary": {
+    "title": "Prices Vary",
+    "description": "Transparent pricing based on your unique cleaning needs. Learn what affects the cost of our services.",
+    "varies": {
+      "1": "Size Of Property",
+      "1-text": "The larger the space, the more time and effort required, which influences the overall price.",
+      "2": "Cleaning Frequency",
+      "2-text": "Regular cleanings can lower costs over time, while one-time deep cleans may require additional resources.",
+      "3": "Type of Cleaning",
+      "3-text": "From standard cleaning to deep sanitization, the type of service you choose determines the price.",
+      "4": "Additional Services",
+      "4-text": "Extra tasks like window cleaning or appliance detailing can be added for a customized experience."
+    }
+  },
+  "contact": {
+    "title1": "Contact info:",
+    "title2": "Contact Us:"
+  },
+  "contact-form": {
+    "full-name-label": "Full Name",
+    "full-name-placeholder": "Your name...",
+    "phone-number-label": "Phone Number",
+    "phone-number-placeholder": "Phone number...",
+    "email-label": "Email Address",
+    "email-placeholder": "Your email...",
+    "message-label": "Message",
+    "message-placeholder": "Text...",
+    "submit": "Submit"
+  },
+  "about": {
+    "title": "About Us",
+    "text": "We have many years of experience in cleaning services, which allows us to guarantee the high quality of our services and an individual approach to assigned tasks. We provide regular as well as one-time cleaning, help with window washing, carpet cleaning, and sofa cleaning. We can also take care of cleaning after renovations, painting, or moving. We are fully available to you, whether you need to clean an apartment, house, office, company, or garage. Just contact us, and we will prepare a non-binding offer for you.",
+    "title-section": "What spaces do we take care of?",
+    "spaces-list": {
+      "0": "Office spaces",
+      "1": "Companies and non-residential premises",
+      "2": "Private apartments and houses",
+      "3": "Residential buildings",
+      "4": "Stores in shopping centers",
+      "5": "Restaurants",
+      "6": "Hotels and guesthouses"
+    }
+  },
+  "pricing": {
+    "vacuum-cleaner": "Is it necessary to order a vacuum cleaner?",
+    "chemical-cleaning": "Order chemical cleaning of furniture and carpets along with cleaning.",
+    "select-date": "Select Date",
+    "select-time": "Select Time",
+    "services": {
+      "title": "Choose services",
+      "cards": {
+        "oven": "Oven Cleaning",
+        "iron": "Ironing",
+        "fridge": "Fridge Cleaning",
+        "balcony": "Balcony Cleaning",
+        "microwave": "Microwave Cleaning",
+        "window": "Window Cleaning",
+        "wardrobe": "Wardrobe Cleaning",
+        "pet": "Pet Cleaning",
+        "plates": "Plates Cleaning"
+      },
+      "chemics": {
+        "title": "Do you need chemicals cleaning?",
+        "regular": "Regular ?",
+        "bio": "Bio-hypoallergenic ?"
+      },
+      "cleaning-cards": {
+        "sofa": "Sofa Cleaning",
+        "sofa-single": "Single Sofa Cleaning",
+        "armchair": "Armchair Cleaning",
+        "mattress": "Mattress Cleaning",
+        "sofa-corner": "Sofa Corner Cleaning",
+        "carpet": "Carpet Cleaning",
+        "sofa-corner-question": "Seats count?"
+      }
+    },
+    "address-form": {
+      "title": "Write your address",
+      "city": "City",
+      "city-placeholder": "City...",
+      "city-helper-text": "For every additional kilometer beyond 35 km from Bratislava, there will be an extra charge of +10 EUR. Maximum distance is 100 km from Bratislava.",
+      "street": "Street",
+      "street-placeholder": "Street name...",
+      "house-number": "House number",
+      "house-number-placeholder": "Your house number...",
+      "floor": "Floor",
+      "floor-placeholder": "Floor...",
+      "psc": "PSC",
+      "psc-placeholder": "Your PSC..."
+    },
+    "contact-form": {
+      "title": "Provide your contacts",
+      "name": "Full Name",
+      "name-placeholder": "Your name...",
+      "phone": "Phone Number",
+      "phone-placeholder": "Phone number...",
+      "email": "Email Address",
+      "email-placeholder": "Your email...",
+      "message": "Message",
+      "message-placeholder": "Text..."
+    },
+    "payment-method": {
+      "card": "Pay by card",
+      "cash": "Pay in cash"
+    },
+    "total": "Total:",
+    "prepayment-alert": "The prices on the website are approximate and may change depending on pollution, area, and additional needs."
+  },
+  "footer": {
+    "links": "Links",
+    "social-media": "Social Media",
+    "contact-info": "Contact Info",
+    "license": "© 2025 Cleaning Company | All Rights Deserved"
+  }
+}

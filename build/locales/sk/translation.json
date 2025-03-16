@@ -1,0 +1,149 @@
+{
+  "header": {
+    "home": "Domov",
+    "about": "O nás",
+    "contacts": "Kontakt",
+    "pricing": "Cenový list"
+  },
+  "home": {
+    "slogan": "Prinášame lesk do vášho života.",
+    "btn-check-prices": "Pozrieť ceny",
+    "services": {
+      "title": "Naše služby",
+      "resident-cleaning": "Upratovanie domácností",
+      "resident-text": "Pre tých, ktorí potrebujú upratovanie svojich domovov.",
+      "office-cleaning": "Upratovanie kancelárií",
+      "office-text": "Pre tých, ktorí potrebujú čisté pracovné prostredie.",
+      "parties-cleaning": "Po oslavách",
+      "parties-text": "Pre tých, ktorí potrebujú upratať po oslavách.",
+      "airbnb-cleaning": "Upratovanie Airbnb",
+      "airbnb-text": "Pre tých, ktorí chcú zabezpečiť hosťom čisté a pohostinné ubytovanie."
+    },
+    "needs": {
+      "title": "Vaše potreby",
+      "description": "Vaše pohodlie a čistota sú našou prioritou. Nechajte neporiadok na nás a relaxujte.",
+      "reasons": {
+        "1": "Dôvod 1",
+        "1-text": "Profesionálne upratovanie zabezpečuje zdravšie a sviežejšie prostredie pre vás a vašu rodinu.",
+        "2": "Dôvod 2",
+        "2-text": "Používame produkty šetrné k domácim zvieratám a životnému prostrediu, aby sme chránili vašich blízkych.",
+        "3": "Dôvod 3",
+        "3-text": "Ušetrite čas a energiu tým, že upratovanie prenecháte nášmu skúsenému tímu."
+      }
+    }
+  },
+  "prices-vary": {
+    "title": "Ceny sa líšia",
+    "description": "Transparentné ceny na základe vašich jedinečných potrieb čistenia. Zistite, čo ovplyvňuje náklady na naše služby.",
+    "varies": {
+      "1": "Veľkosť nehnuteľnosti",
+      "1-text": "Čím väčší priestor, tým viac času a úsilia je potrebných, čo ovplyvňuje celkovú cenu.",
+      "2": "Frekvencia čistenia",
+      "2-text": "Pravidelné čistenie môže znížiť náklady v priebehu času, zatiaľ čo jednorazové hĺbkové čistenie môže vyžadovať ďalšie zdroje.",
+      "3": "Typ čistenia",
+      "3-text": "Od štandardného čistenia po hĺbkovú dezinfekciu, typ služby, ktorú si vyberiete, určuje cenu.",
+      "4": "Ďalšie služby",
+      "4-text": "Extra úlohy, ako je čistenie okien alebo detailné čistenie spotrebičov, je možné pridať pre prispôsobený zážitok."
+    }
+  },
+  "contact": {
+    "title1": "Kontaktné informácie:",
+    "title2": "Kontaktujte nás:"
+  },
+  "contact-form": {
+    "full-name-label": "Celé meno",
+    "full-name-placeholder": "Vaše meno...",
+    "phone-number-label": "Telefónne číslo",
+    "phone-number-placeholder": "Telefónne číslo...",
+    "email-label": "Emailová adresa",
+    "email-placeholder": "Váš email...",
+    "message-label": "Správa",
+    "message-placeholder": "Text...",
+    "submit": "Odoslať"
+  },
+  "about": {
+    "title": "O nás",
+    "text": "Máme dlhoročné skúsenosti s upratovacími službami, čo nám umožňuje zaručiť vysokú kvalitu našich služieb a individuálny prístup k zvereným úlohám. Poskytujeme pravidelné aj jednorazové upratovanie, pomáhame s umývaním okien, čistením kobercov a sedačiek. Postaráme sa aj o upratovanie po rekonštrukciách, maľovaní alebo sťahovaní. Sme vám plne k dispozícii, či už potrebujete upratať byt, dom, kanceláriu, firmu alebo garáž. Stačí nás kontaktovať a pripravíme vám nezáväznú ponuku.",
+    "title-section": "O aké priestory sa staráme?",
+    "spaces-list": {
+      "0": "Kancelárske priestory",
+      "1": "Firmy a nebytové priestory",
+      "2": "Súkromné byty a domy",
+      "3": "Obytné budovy",
+      "4": "Obchody v nákupných centrách",
+      "5": "Reštaurácie",
+      "6": "Hotely a penzióny"
+    }
+  },
+  "pricing": {
+    "vacuum-cleaner": "Je potrebné objednať vysávač?",
+    "chemical-cleaning": "Objednajte si chemické čistenie nábytku a kobercov spolu s upratovaním.",
+    "select-date": "Vyberte dátum",
+    "select-time": "Vyberte čas",
+    "services": {
+      "title": "Vyberte si služby",
+      "cards": {
+        "oven": "Čistenie rúry",
+        "iron": "Žehlenie",
+        "fridge": "Čistenie chladničky",
+        "balcony": "Čistenie balkóna",
+        "microwave": "Čistenie mikrovlnky",
+        "window": "Čistenie okien",
+        "wardrobe": "Čistenie skrine",
+        "pet": "Čistenie po domácich zvieratách",
+        "plates": "Umývanie riadu"
+      },
+      "chemics": {
+        "title": "Je potrebné použitie chémie?",
+        "regular": "Bežný ?",
+        "bio": "Bio-hypoalergénnej ?"
+      },
+      "cleaning-cards": {
+        "sofa": "Čistenie pohovky",
+        "sofa-single": "Čistenie jednosedadlovej pohovky",
+        "armchair": "Čistenie kresla",
+        "mattress": "Čistenie matraca",
+        "sofa-corner": "Čistenie rohovej pohovky",
+        "carpet": "Čistenie koberca",
+        "sofa-corner-question": "Počet sedadiel?"
+      }
+    },
+    "address-form": {
+      "title": "Napíšte svoju adresu",
+      "city": "Mesto",
+      "city-placeholder": "Mesto...",
+      "city-helper-text": "Za každý ďalší kilometer nad 35 km od Bratislavy bude účtovaný poplatok +10 EUR. Maximálna vzdialenosť je 100 km od Bratislavy.",
+      "street": "Ulica",
+      "street-placeholder": "Názov ulice...",
+      "house-number": "Číslo domu",
+      "house-number-placeholder": "Vaše číslo domu...",
+      "floor": "Poschodie",
+      "floor-placeholder": "Poschodie...",
+      "psc": "PSČ",
+      "psc-placeholder": "Vaše PSČ..."
+    },
+    "contact-form": {
+      "title": "Uveďte svoje kontakty",
+      "name": "Celé meno",
+      "name-placeholder": "Vaše meno...",
+      "phone": "Telefónne číslo",
+      "phone-placeholder": "Telefónne číslo...",
+      "email": "Emailová adresa",
+      "email-placeholder": "Váš email...",
+      "message": "Správa",
+      "message-placeholder": "Text..."
+    },
+    "payment-method": {
+      "card": "Platiť kartou",
+      "cash": "Platiť v hotovosti"
+    },
+    "total": "Celkom:",
+    "prepayment-alert": "Ceny na stránke sú približné a môžu sa zmeniť v závislosti od znečistenia, plochy a ďalších potrieb."
+  },
+  "footer": {
+    "links": "Odkazy",
+    "social-media": "Söciálne siete",
+    "contact-info": "Kontakty",
+    "license": "© 2025 Cleaning Company | All Rights Deserved"
+  }
+}
