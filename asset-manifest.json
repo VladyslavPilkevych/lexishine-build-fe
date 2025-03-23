@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lexishine-build-fe/static/css/main.1bedb250.css",
-    "main.js": "/lexishine-build-fe/static/js/main.3b986f28.js",
+    "main.js": "/lexishine-build-fe/static/js/main.8d76a850.js",
     "static/js/38.a95885d3.chunk.js": "/lexishine-build-fe/static/js/38.a95885d3.chunk.js",
     "index.html": "/lexishine-build-fe/index.html",
     "main.1bedb250.css.map": "/lexishine-build-fe/static/css/main.1bedb250.css.map",
-    "main.3b986f28.js.map": "/lexishine-build-fe/static/js/main.3b986f28.js.map",
+    "main.8d76a850.js.map": "/lexishine-build-fe/static/js/main.8d76a850.js.map",
     "38.a95885d3.chunk.js.map": "/lexishine-build-fe/static/js/38.a95885d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bedb250.css",
-    "static/js/main.3b986f28.js"
+    "static/js/main.8d76a850.js"
   ]
 }
